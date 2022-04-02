@@ -1,6 +1,9 @@
 package com.us.java;
 /*
 Assignment_1_1
+
+//Change from devGary
+//Change from devGary
 */
 
 public class Assignment_1_1
